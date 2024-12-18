@@ -1,2 +1,8 @@
 twilio
 flask
+fastapi 
+uvicorn 
+python-dotenv 
+websockets 
+twilio
+openai
