@@ -1,3 +1,14 @@
+
+
+uvicorn==0.30.6
+websockets==13.1
+fastapi==0.115.0
+python-dotenv==1.0.1
+requests==2.32.3
+starlette==0.38.6
+twilio==9.3.2
+
+"""
 twilio
 flask
 fastapi 
@@ -7,3 +18,5 @@ websockets
 twilio
 openai
 elevenlabs
+streamlit
+"""
