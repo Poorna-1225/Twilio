@@ -109,6 +109,7 @@ def text_to_speech(text):
     return audio_stream
 
 
+# Tried multple ways of streaming. check them if interested.
 """
 def text_to_speech(text):
     voice_id = 'pNInz6obpgDQGcFmaJgB'

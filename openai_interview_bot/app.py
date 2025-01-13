@@ -28,4 +28,4 @@ audio_stream = client.text_to_speech.convert_as_stream(
 # option 1: play the streamed audio locally
 stream(audio_stream)
 
-
+# check if stream(audio_stream) works if you are trying to execute it non locally.
